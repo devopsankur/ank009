@@ -9,3 +9,8 @@ git remote -v
 
 copy remote repo to local repo
 git pull origin main 
+
+to create branch
+git branch <branch_nmae>
+git checkout -b <branch_name>
+
