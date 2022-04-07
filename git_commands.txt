@@ -1,0 +1,11 @@
+Add remote origin
+first initialize repo using ==> git init
+
+git remote add origin https://github.com/devopsankur/ank009.git
+
+check remote url
+git remote -v
+
+
+copy remote repo to local repo
+git pull origin main 
